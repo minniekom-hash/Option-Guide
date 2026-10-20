@@ -2,7 +2,6 @@ flask>=3.0
 gunicorn>=22.0
 numpy>=1.26
 pandas>=2.1
-gunicorn
 scipy>=1.11
 yfinance>=0.2.40
 nltk>=3.8
